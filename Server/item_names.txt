@@ -1,0 +1,8 @@
+79510	Canavar Üçlüsü Kartı
+79511	Canavar Üçlüsü Seti
+
+83033	Altın canavar üçlüsü kts
+83034	Gümüş canavar üçlüsü kts
+83035	Bronz canavar üçlüsü kts
+83040	VIP canavar üçlüsü kts
+

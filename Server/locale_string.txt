@@ -1,0 +1,20 @@
+"This is already the best reward.";
+"Bu zaten en iyi ödül.";
+
+"No more hints for you.";
+"Daha fazla ipucu kullanamazsınız.";
+
+"You don't have enough cards to receive a hint.";
+"İpucu almak için yeterli kartınız yok.";
+
+"You don't have enough Yang.";
+"Yeterli Yang yok.";
+
+"This event is not currently active.";
+"Bu etkinlik şu anda aktif değil.";
+
+"You don't have enough yang to start this game.";
+"Bu oyuna başlamak için yeterli yang'ın yok.";
+
+"You do not have enough sets to start this game.";
+"Bu oyuna başlamak için yeterli setin yok.";
