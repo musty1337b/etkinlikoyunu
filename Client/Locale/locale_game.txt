@@ -1,0 +1,14 @@
+FINDM_BUTTON_01	Al
+FINDM_BUTTON_02	Geliþtir
+FINDM_POPUP_01	Mini oyuna baþlamak için tüm eþyalara sahip deðilsin.
+FINDM_POPUP_02	Yetersiz %s.
+FINDM_POPUP_03	Bunu artýk kullanamazsýn.
+FINDM_POPUP_04	Bu zaten en iyi ödül.
+FINDM_POPUP_05	Mini oyun için yeterli Yang yok.
+FINDM_POPUP_06	Eðer %d saniye içinde açmazsan, kartlar otomatik olarak açýlýr.
+FINDM_QUESTION_01	%d Yang ve %s harcanýr.\nDevam et?
+FINDM_QUESTION_02	Tekrar dene ve %s %d kullan?
+FINDM_QUESTION_03	Ödül: %s
+FINDM_QUESTION_04	Tekrar dene? Baþarýsýzlýk durumunda güncel ödülün kalýr.
+FINDM_QUESTION_05	Oyunu bitir ve ödülü al?
+FINDM_TOOLTIP_01	Belirtilen sürede denemezsen, üç kart otomatik olarak açýlýr.
